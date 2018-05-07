@@ -3,7 +3,7 @@
 <suite name="Default Suite">
   <test name="MavenDemp">
     <classes>
-        <class name="frame.Login"/>
+        <class name="PageObject.TestCase"/>
     </classes>
   </test> <!-- MavenDemp -->
 </suite> <!-- Default Suite -->
